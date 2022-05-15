@@ -1,5 +1,5 @@
-# Katmovie Bot
-This Telegram Bot is [KatmovieBot](https://github.com/shivamrajput0/Katmovie)
+# DTG Bot
+This Telegram Bot is [DTGmovieBot](https://github.com/Maulikpatell/jpgautofilter)
 - Telegram Inline & Auto Filter Bot for Channels and Groups. A greater auto filter bot with features like IMDb Posters support, Inline mode, Broadcast feature etc..
 
 ---
